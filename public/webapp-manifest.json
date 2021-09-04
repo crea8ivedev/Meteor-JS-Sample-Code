@@ -1,0 +1,11 @@
+{
+  "name": "Crea8ivedev",
+  "short_name": "Crea8ivedev",
+  "description": "Crea8ivedev Demo",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#5ab647",
+  "background_color": "#5ab647"
+}

@@ -1,0 +1,56 @@
+#root {
+  .appBar {
+    flex: 0 0 auto;
+    background: #FFF;
+  }
+  .bottomNavigation {
+    flex: 0 0 auto;
+    max-width: 600px;
+    min-width: 320px;
+    width: 100%;
+    margin: auto;
+  }
+  .bottomPaper {
+    border-top: 1px solid $gray300;
+  }
+  .navAction {
+    padding-left: 0;
+    padding-right: 0;
+    min-width: auto;
+  }
+  .main {
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    flex: 1 1 auto;
+    overflow: hidden;
+    background: #e7e4e6;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+  .flex {
+    display: flex;
+  }
+  .menuButton {
+    margin-left: -4px;
+  }
+  .title {
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+  }
+  .rightIcon {
+    margin-left: spacing(1);
+  }
+  .leftIcon {
+    margin-right: spacing(1);
+  }
+  .logo {
+    flex: 1 1 auto;
+    text-align: center;
+  }
+  .side {
+    flex: 1 1 0;
+  }
+}

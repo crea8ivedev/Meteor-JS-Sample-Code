@@ -1,0 +1,51 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+accounts-base@1.9.0
+accounts-facebook@1.3.2
+accounts-password@1.7.0
+audit-argument-checks@1.0.7
+check@1.3.1
+dynamic-import@0.6.0
+ecmascript@0.15.1
+es5-shim@4.8.0
+http@1.4.2
+meteor-base@1.4.0
+mongo@1.11.0
+random@1.2.0
+react-meteor-data
+standard-minifier-js@2.6.0
+server-render@0.3.1
+static-html
+tracker@1.2.0
+typescript@4.2.2
+
+alanning:roles
+aldeed:collection2
+aldeed:schema-deny
+communitypackages:fast-render
+edgee:slingshot
+fourseven:scss
+ground:db@2.0.0!
+jimmiebtlr:slingshot-cloudinary@0.0.8
+lamhieu:meteorx@2.1.1
+littledata:synced-cron
+mdg:meteor-apm-agent
+mdg:seo
+mdg:validated-method
+# meteortesting:mocha
+# mizzao:user-status
+natestrauser:publish-performant-counts
+nimble:restivus
+npdev:async-proxy
+npdev:excel
+npdev:collections
+# npdev:offline
+npdev:react-loadable@1.0.0!
+# practicalmeteor:chai
+seba:minifiers-autoprefixer
+raix:eventemitter
+session@1.2.0

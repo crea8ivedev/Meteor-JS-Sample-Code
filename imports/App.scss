@@ -1,0 +1,20 @@
+.account-main {
+  background: #e7e4e6;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  flex: 1;
+}
+.account-paper {
+  padding: spacing(2) spacing(3);
+  margin: spacing(3) auto;
+  min-width: 300px;
+  max-width: 600px;
+  width: 100%;
+}
+
+.css-50etie svg circle {
+  stroke: #5CB747 !important;
+}
+.css-df17o1{
+  color: #5CB747!important;
+}

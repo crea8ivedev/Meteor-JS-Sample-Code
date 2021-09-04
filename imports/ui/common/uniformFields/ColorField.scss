@@ -1,0 +1,36 @@
+.color-field {
+  margin-bottom: 20px;
+  .popover {
+    position: absolute;
+    z-index: 2;
+  }
+  .cover {
+    position: fixed;
+    top: 0; bottom: 0;
+    left: 0; right: 0;
+  }
+  .button {
+    padding: 5px;
+    background: #fff;
+    cursor: pointer;
+    display: inline-block;
+  }
+  .swatch {
+    width: 36px;
+    height: 14px;
+    border-radius: 2px;
+    background: #FFF;
+  }
+  .control-wrap {
+    display: flex;
+  }
+  .remove-btn {
+    padding: 3px 8px;
+    cursor: pointer;
+  }
+  .sidebar--right & .sketch-picker {
+    position: absolute;
+    right: 6px;
+    top: -189px;
+  }
+}

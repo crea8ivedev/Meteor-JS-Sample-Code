@@ -1,0 +1,8 @@
+a.tabs {
+  min-width: 120px;
+  white-space: nowrap;
+  color: $gray500;
+  &.selected {
+    color: $gray700;
+  }
+}
